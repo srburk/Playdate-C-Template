@@ -6,8 +6,16 @@
 	objectVersion = 56;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		225E2EBD28F75CE8004E8CD3 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 225E2EBC28F75CE8004E8CD3 /* main.c */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
-		225E2EB228F75C3C004E8CD3 /* libPlaydateResume.dylib */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.dylib"; includeInIndex = 0; path = libPlaydateResume.dylib; sourceTree = BUILT_PRODUCTS_DIR; };
+		225E2EB228F75C3C004E8CD3 /* libSimulator.dylib */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.dylib"; includeInIndex = 0; path = libSimulator.dylib; sourceTree = BUILT_PRODUCTS_DIR; };
+		225E2EB928F75C9B004E8CD3 /* Makefile */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
+		225E2EBC28F75CE8004E8CD3 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		225E2EBF28F75D0A004E8CD3 /* pdxinfo */ = {isa = PBXFileReference; lastKnownFileType = text; path = pdxinfo; sourceTree = "<group>"; };
+		225E2EC528F7664B004E8CD3 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -24,6 +32,10 @@
 		225E2EA928F75C3C004E8CD3 = {
 			isa = PBXGroup;
 			children = (
+				225E2EC528F7664B004E8CD3 /* README.md */,
+				225E2EBE28F75CF8004E8CD3 /* Source */,
+				225E2EBB28F75CD5004E8CD3 /* src */,
+				225E2EB928F75C9B004E8CD3 /* Makefile */,
 				225E2EB328F75C3C004E8CD3 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -31,9 +43,25 @@
 		225E2EB328F75C3C004E8CD3 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				225E2EB228F75C3C004E8CD3 /* libPlaydateResume.dylib */,
+				225E2EB228F75C3C004E8CD3 /* libSimulator.dylib */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		225E2EBB28F75CD5004E8CD3 /* src */ = {
+			isa = PBXGroup;
+			children = (
+				225E2EBC28F75CE8004E8CD3 /* main.c */,
+			);
+			path = src;
+			sourceTree = "<group>";
+		};
+		225E2EBE28F75CF8004E8CD3 /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				225E2EBF28F75D0A004E8CD3 /* pdxinfo */,
+			);
+			path = Source;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -48,22 +76,40 @@
 		};
 /* End PBXHeadersBuildPhase section */
 
+/* Begin PBXLegacyTarget section */
+		225E2EC128F765A8004E8CD3 /* PlaydateDevice */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "device pdc";
+			buildConfigurationList = 225E2EC228F765A8004E8CD3 /* Build configuration list for PBXLegacyTarget "PlaydateDevice" */;
+			buildPhases = (
+			);
+			buildToolPath = /usr/bin/make;
+			buildWorkingDirectory = "";
+			dependencies = (
+			);
+			name = PlaydateDevice;
+			passBuildSettingsInEnvironment = 1;
+			productName = PlaydateDevice;
+		};
+/* End PBXLegacyTarget section */
+
 /* Begin PBXNativeTarget section */
-		225E2EB128F75C3C004E8CD3 /* PlaydateResume */ = {
+		225E2EB128F75C3C004E8CD3 /* Simulator */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 225E2EB628F75C3C004E8CD3 /* Build configuration list for PBXNativeTarget "PlaydateResume" */;
+			buildConfigurationList = 225E2EB628F75C3C004E8CD3 /* Build configuration list for PBXNativeTarget "Simulator" */;
 			buildPhases = (
 				225E2EAE28F75C3C004E8CD3 /* Headers */,
 				225E2EAF28F75C3C004E8CD3 /* Sources */,
 				225E2EB028F75C3C004E8CD3 /* Frameworks */,
+				225E2EC028F75DE6004E8CD3 /* Compile PDX */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = PlaydateResume;
+			name = Simulator;
 			productName = PlaydateResume;
-			productReference = 225E2EB228F75C3C004E8CD3 /* libPlaydateResume.dylib */;
+			productReference = 225E2EB228F75C3C004E8CD3 /* libSimulator.dylib */;
 			productType = "com.apple.product-type.library.dynamic";
 		};
 /* End PBXNativeTarget section */
@@ -78,9 +124,12 @@
 					225E2EB128F75C3C004E8CD3 = {
 						CreatedOnToolsVersion = 14.0.1;
 					};
+					225E2EC128F765A8004E8CD3 = {
+						CreatedOnToolsVersion = 14.0.1;
+					};
 				};
 			};
-			buildConfigurationList = 225E2EAD28F75C3C004E8CD3 /* Build configuration list for PBXProject "PlaydateResume" */;
+			buildConfigurationList = 225E2EAD28F75C3C004E8CD3 /* Build configuration list for PBXProject "Playdate-C-Template" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -93,16 +142,40 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				225E2EB128F75C3C004E8CD3 /* PlaydateResume */,
+				225E2EB128F75C3C004E8CD3 /* Simulator */,
+				225E2EC128F765A8004E8CD3 /* PlaydateDevice */,
 			);
 		};
 /* End PBXProject section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		225E2EC028F75DE6004E8CD3 /* Compile PDX */ = {
+			isa = PBXShellScriptBuildPhase;
+			alwaysOutOfDate = 1;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			name = "Compile PDX";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "cp \"${TARGET_BUILD_DIR}/${EXECUTABLE_NAME}\" Source/pdex.dylib\ntouch Source/pdex.bin\nmake pdc\n";
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		225E2EAF28F75C3C004E8CD3 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				225E2EBD28F75CE8004E8CD3 /* main.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -152,6 +225,8 @@
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
+					"PLAYDATE_SIMULATOR=1",
+					"TARGET_EXTENSION=1",
 				);
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
@@ -159,6 +234,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = /Users/sam/Developer/PlaydateSDK/C_API;
 				MACOSX_DEPLOYMENT_TARGET = 12.3;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
@@ -211,6 +287,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = /Users/sam/Developer/PlaydateSDK/C_API;
 				MACOSX_DEPLOYMENT_TARGET = 12.3;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
@@ -244,10 +321,41 @@
 			};
 			name = Release;
 		};
+		225E2EC328F765A8004E8CD3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEBUGGING_SYMBOLS = YES;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = 3B52K98W7P;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		225E2EC428F765A8004E8CD3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = 3B52K98W7P;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		225E2EAD28F75C3C004E8CD3 /* Build configuration list for PBXProject "PlaydateResume" */ = {
+		225E2EAD28F75C3C004E8CD3 /* Build configuration list for PBXProject "Playdate-C-Template" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				225E2EB428F75C3C004E8CD3 /* Debug */,
@@ -256,11 +364,20 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		225E2EB628F75C3C004E8CD3 /* Build configuration list for PBXNativeTarget "PlaydateResume" */ = {
+		225E2EB628F75C3C004E8CD3 /* Build configuration list for PBXNativeTarget "Simulator" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				225E2EB728F75C3C004E8CD3 /* Debug */,
 				225E2EB828F75C3C004E8CD3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		225E2EC228F765A8004E8CD3 /* Build configuration list for PBXLegacyTarget "PlaydateDevice" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				225E2EC328F765A8004E8CD3 /* Debug */,
+				225E2EC428F765A8004E8CD3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
