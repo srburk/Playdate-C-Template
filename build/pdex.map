@@ -1,0 +1,510 @@
+Archive member included to satisfy reference by file (symbol)
+
+/usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-exit.o)
+                              /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (exit)
+/usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-impure.o)
+                              /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-exit.o) (_global_impure_ptr)
+/usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-init.o)
+                              /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (__libc_init_array)
+/usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-memset.o)
+                              /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (memset)
+/usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-__call_atexit.o)
+                              /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-exit.o) (__call_exitprocs)
+/usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-atexit.o)
+                              /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-__call_atexit.o) (atexit)
+/usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-fini.o)
+                              /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-__call_atexit.o) (__libc_fini_array)
+/usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+                              /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+/usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-__atexit.o)
+                              /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-atexit.o) (__register_exitproc)
+
+Allocating common symbols
+Common symbol       size              file
+
+__lock___atexit_recursive_mutex
+                    0x1               /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+__lock___arc4random_mutex
+                    0x1               /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+__lock___env_recursive_mutex
+                    0x1               /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+__lock___sinit_recursive_mutex
+                    0x1               /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+__lock___malloc_recursive_mutex
+                    0x1               /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+__lock___at_quick_exit_mutex
+                    0x1               /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+__lock___dd_hash_mutex
+                    0x1               /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+__lock___tz_mutex   0x1               /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+__lock___sfp_recursive_mutex
+                    0x1               /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crti.o
+ .bss           0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x0000000000000000        0x4 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text          0x0000000000000000       0x74 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .data          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .bss           0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.exidx     0x0000000000000000        0x8 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.attributes
+                0x0000000000000000       0x1c /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .text          0x0000000000000000        0x0 build/src/main.o
+ .data          0x0000000000000000        0x0 build/src/main.o
+ .bss           0x0000000000000000        0x0 build/src/main.o
+ .text          0x0000000000000000        0x0 build//Users/sam/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .data          0x0000000000000000        0x0 build//Users/sam/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .bss           0x0000000000000000        0x0 build//Users/sam/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .text._malloc_r
+                0x0000000000000000        0xc build//Users/sam/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .text._realloc_r
+                0x0000000000000000       0x10 build//Users/sam/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .text._free_r  0x0000000000000000       0x10 build//Users/sam/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .text          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-exit.o)
+ .text.exit     0x0000000000000000       0x20 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000000       0x28 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x0000000000000000        0x4 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x0000000000000000       0x48 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-init.o)
+ .debug_frame   0x0000000000000000       0x2c /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-memset.o)
+ .text.memset   0x0000000000000000       0xa0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000000       0x38 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-__call_atexit.o)
+ .data          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-__call_atexit.o)
+ .bss           0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x0000000000000000       0xcc /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-__call_atexit.o)
+ .text          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-atexit.o)
+ .data          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-atexit.o)
+ .bss           0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-atexit.o)
+ .text          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-fini.o)
+ .data          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-fini.o)
+ .bss           0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-fini.o)
+ .text          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+ .data          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+ .bss           0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x0000000000000000        0x4 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x0000000000000000        0x4 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x0000000000000000        0x4 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x0000000000000000        0x4 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x0000000000000000        0x4 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x0000000000000000        0x4 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x0000000000000000        0x4 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x0000000000000000        0x4 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+ .text          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-__atexit.o)
+ .data          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-__atexit.o)
+ .bss           0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-__atexit.o)
+ .text          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .data          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .bss           0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .text          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtn.o
+ .data          0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+EXTRAM           0x0000000060000000 0x0000000000800000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crti.o
+LOAD /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+LOAD /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+LOAD build/src/main.o
+LOAD build//Users/sam/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+START GROUP
+LOAD /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a
+LOAD /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a
+END GROUP
+LOAD /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtend.o
+LOAD /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtn.o
+START GROUP
+LOAD /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a
+LOAD /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a
+END GROUP
+
+.capi           0x0000000060000000        0xc
+ *(.capi_handler)
+ .capi_handler  0x0000000060000000        0x4 build//Users/sam/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+                0x0000000060000000                PD_eventHandler
+ *(.bss_start)
+ .bss_start     0x0000000060000004        0x4 build//Users/sam/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+                0x0000000060000004                _bss_start
+ *(.bss_end)
+ .bss_end       0x0000000060000008        0x4 build//Users/sam/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+                0x0000000060000008                _bss_end
+
+.text           0x000000006000000c       0xc8
+ *(.text)
+ .text          0x000000006000000c       0x40 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.init)
+ .init          0x000000006000004c        0x4 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crti.o
+                0x000000006000004c                _init
+ .init          0x0000000060000050        0x8 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtn.o
+ *(.fini)
+ .fini          0x0000000060000058        0x4 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crti.o
+                0x0000000060000058                _fini
+ .fini          0x000000006000005c        0x8 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata.update.str1.4
+                0x0000000060000064        0xd build/src/main.o
+ *fill*         0x0000000060000071        0x3 
+ .rodata.eventHandler.str1.4
+                0x0000000060000074       0x2c build/src/main.o
+ .rodata.str1.4
+                0x00000000600000a0       0x29 build/src/main.o
+ *fill*         0x00000000600000c9        0x3 
+ .rodata._global_impure_ptr
+                0x00000000600000cc        0x4 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-impure.o)
+                0x00000000600000cc                _global_impure_ptr
+ *(.eh_frame*)
+ .eh_frame      0x00000000600000d0        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .eh_frame      0x00000000600000d0        0x4 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtend.o
+
+.glue_7         0x00000000600000d4        0x0
+ .glue_7        0x00000000600000d4        0x0 linker stubs
+
+.glue_7t        0x00000000600000d4        0x0
+ .glue_7t       0x00000000600000d4        0x0 linker stubs
+
+.vfp11_veneer   0x00000000600000d4        0x0
+ .vfp11_veneer  0x00000000600000d4        0x0 linker stubs
+
+.v4_bx          0x00000000600000d4        0x0
+ .v4_bx         0x00000000600000d4        0x0 linker stubs
+
+.iplt           0x00000000600000d4        0x0
+ .iplt          0x00000000600000d4        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.text.update    0x00000000600000e0       0x84
+ .text.update   0x00000000600000e0       0x84 build/src/main.o
+
+.text.eventHandler
+                0x0000000060000170       0x58
+ .text.eventHandler
+                0x0000000060000170       0x58 build/src/main.o
+                0x0000000060000170                eventHandler
+
+.text.eventHandlerShim
+                0x00000000600001d0       0x1c
+ .text.eventHandlerShim
+                0x00000000600001d0       0x1c build//Users/sam/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+                0x00000000600001d0                eventHandlerShim
+
+.text.startup.register_fini
+                0x00000000600001ec       0x14
+ .text.startup.register_fini
+                0x00000000600001ec       0x14 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-__call_atexit.o)
+
+.text.atexit    0x0000000060000200        0xc
+ .text.atexit   0x0000000060000200        0xc /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-atexit.o)
+                0x0000000060000200                atexit
+
+.text.__libc_fini_array
+                0x000000006000020c       0x2c
+ .text.__libc_fini_array
+                0x000000006000020c       0x2c /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-fini.o)
+                0x000000006000020c                __libc_fini_array
+
+.text.__retarget_lock_acquire_recursive
+                0x0000000060000238        0x4
+ .text.__retarget_lock_acquire_recursive
+                0x0000000060000238        0x4 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+                0x0000000060000238                __retarget_lock_acquire_recursive
+
+.text.__retarget_lock_release_recursive
+                0x000000006000023c        0x4
+ .text.__retarget_lock_release_recursive
+                0x000000006000023c        0x4 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+                0x000000006000023c                __retarget_lock_release_recursive
+
+.text.__register_exitproc
+                0x0000000060000240       0x8c
+ .text.__register_exitproc
+                0x0000000060000240       0x8c /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-__atexit.o)
+                0x0000000060000240                __register_exitproc
+
+.rel.dyn        0x00000000600002cc        0x0
+ .rel.iplt      0x00000000600002cc        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.data           0x00000000600002d0      0x450
+                0x00000000600002d0                __etext = .
+                0x00000000600002d0                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data.dx       0x00000000600002d0        0x4 build/src/main.o
+                0x00000000600002d0                dx
+ .data.dy       0x00000000600002d4        0x4 build/src/main.o
+                0x00000000600002d4                dy
+ .data.fontpath
+                0x00000000600002d8        0x4 build/src/main.o
+                0x00000000600002d8                fontpath
+ .data.x        0x00000000600002dc        0x4 build/src/main.o
+                0x00000000600002dc                x
+ .data.y        0x00000000600002e0        0x4 build/src/main.o
+                0x00000000600002e0                y
+ *fill*         0x00000000600002e4        0x4 
+ .data.impure_data
+                0x00000000600002e8      0x428 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-impure.o)
+ .data.__atexit_recursive_mutex
+                0x0000000060000710        0x4 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-__call_atexit.o)
+                0x0000000060000710                __atexit_recursive_mutex
+                0x0000000060000714                . = ALIGN (0x4)
+                0x0000000060000714                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                0x0000000060000714                PROVIDE (__preinit_array_end = .)
+                0x0000000060000714                . = ALIGN (0x4)
+                0x0000000060000714                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ .init_array.00000
+                0x0000000060000714        0x4 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-__call_atexit.o)
+ *(.init_array)
+ .init_array    0x0000000060000718        0x4 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x000000006000071c                PROVIDE (__init_array_end = .)
+                0x000000006000071c                . = ALIGN (0x4)
+                0x000000006000071c                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x000000006000071c        0x4 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x0000000060000720                PROVIDE (__fini_array_end = .)
+                0x0000000060000720                . = ALIGN (0x4)
+                0x0000000060000720                __data_end__ = .
+
+.igot.plt       0x0000000060000720        0x0
+ .igot.plt      0x0000000060000720        0x0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.bss            0x0000000060000720       0x48
+                0x0000000060000720                . = ALIGN (0x4)
+                0x0000000060000720                __bss_start__ = .
+ *(.bss*)
+ .bss           0x0000000060000720       0x1c /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .bss.font      0x000000006000073c        0x4 build/src/main.o
+                0x000000006000073c                font
+ .bss.pdrealloc
+                0x0000000060000740        0x4 build//Users/sam/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ *(COMMON)
+ COMMON         0x0000000060000744       0x21 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+                0x0000000060000744                __lock___atexit_recursive_mutex
+                0x0000000060000748                __lock___arc4random_mutex
+                0x000000006000074c                __lock___env_recursive_mutex
+                0x0000000060000750                __lock___sinit_recursive_mutex
+                0x0000000060000754                __lock___malloc_recursive_mutex
+                0x0000000060000758                __lock___at_quick_exit_mutex
+                0x000000006000075c                __lock___dd_hash_mutex
+                0x0000000060000760                __lock___tz_mutex
+                0x0000000060000764                __lock___sfp_recursive_mutex
+                0x0000000060000768                . = ALIGN (0x4)
+ *fill*         0x0000000060000765        0x3 
+                0x0000000060000768                __bss_end__ = .
+
+/DISCARD/
+ *(.ARM.exidx)
+OUTPUT(build/pdex.elf elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x30
+ .ARM.attributes
+                0x0000000000000000       0x1e /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crti.o
+ .ARM.attributes
+                0x000000000000001e       0x34 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .ARM.attributes
+                0x0000000000000052       0x34 build/src/main.o
+ .ARM.attributes
+                0x0000000000000086       0x34 build//Users/sam/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .ARM.attributes
+                0x00000000000000ba       0x32 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000000000ec       0x34 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x0000000000000120       0x34 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x0000000000000154       0x34 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-fini.o)
+ .ARM.attributes
+                0x0000000000000188       0x34 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+ .ARM.attributes
+                0x00000000000001bc       0x34 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000000000001f0       0x32 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .ARM.attributes
+                0x0000000000000222       0x1e /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtn.o
+
+.comment        0x0000000000000000       0x79
+ .comment       0x0000000000000000       0x79 build/src/main.o
+                                         0x7a (size before relaxing)
+ .comment       0x0000000000000079       0x7a build//Users/sam/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+
+.debug_info     0x0000000000000000     0xc3b3
+ .debug_info    0x0000000000000000     0x6185 build/src/main.o
+ .debug_info    0x0000000000006185     0x622e build//Users/sam/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+
+.debug_abbrev   0x0000000000000000      0x680
+ .debug_abbrev  0x0000000000000000      0x334 build/src/main.o
+ .debug_abbrev  0x0000000000000334      0x34c build//Users/sam/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+
+.debug_loc      0x0000000000000000      0x3be
+ .debug_loc     0x0000000000000000      0x1af build/src/main.o
+ .debug_loc     0x00000000000001af      0x20f build//Users/sam/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+
+.debug_aranges  0x0000000000000000       0x60
+ .debug_aranges
+                0x0000000000000000       0x28 build/src/main.o
+ .debug_aranges
+                0x0000000000000028       0x38 build//Users/sam/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+
+.debug_ranges   0x0000000000000000       0x68
+ .debug_ranges  0x0000000000000000       0x40 build/src/main.o
+ .debug_ranges  0x0000000000000040       0x28 build//Users/sam/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+
+.debug_line     0x0000000000000000      0x76c
+ .debug_line    0x0000000000000000      0x3cf build/src/main.o
+ .debug_line    0x00000000000003cf      0x39d build//Users/sam/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+
+.debug_str      0x0000000000000000     0x2b84
+ .debug_str     0x0000000000000000     0x2aa3 build/src/main.o
+                                       0x2cd2 (size before relaxing)
+ .debug_str     0x0000000000002aa3       0xe1 build//Users/sam/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+                                       0x2d93 (size before relaxing)
+
+.debug_frame    0x0000000000000000      0x26c
+ .debug_frame   0x0000000000000000       0x70 build/src/main.o
+ .debug_frame   0x0000000000000070       0x5c build//Users/sam/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .debug_frame   0x00000000000000cc       0x68 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-__call_atexit.o)
+ .debug_frame   0x0000000000000134       0x20 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-atexit.o)
+ .debug_frame   0x0000000000000154       0x34 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-fini.o)
+ .debug_frame   0x0000000000000188       0xb0 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+ .debug_frame   0x0000000000000238       0x34 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-__atexit.o)
+
+Cross Reference Table
+
+Symbol                                            File
+PD_eventHandler                                   build//Users/sam/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+__atexit_recursive_mutex                          /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-__call_atexit.o)
+                                                  /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-__atexit.o)
+__bss_end__                                       build//Users/sam/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+                                                  /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+__bss_start__                                     build//Users/sam/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+                                                  /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+__call_exitprocs                                  /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-__call_atexit.o)
+                                                  /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-exit.o)
+__deregister_frame_info                           /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+__dso_handle                                      /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+__fini_array_end                                  /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-fini.o)
+__fini_array_start                                /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-fini.o)
+__init_array_end                                  /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-init.o)
+__init_array_start                                /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-init.o)
+__libc_fini                                       /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-__call_atexit.o)
+__libc_fini_array                                 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-fini.o)
+                                                  /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-__call_atexit.o)
+                                                  /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+__libc_init_array                                 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-init.o)
+                                                  /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+__lock___arc4random_mutex                         /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+__lock___at_quick_exit_mutex                      /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+__lock___atexit_recursive_mutex                   /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+                                                  /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-__call_atexit.o)
+__lock___dd_hash_mutex                            /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+__lock___env_recursive_mutex                      /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+__lock___malloc_recursive_mutex                   /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+__lock___sfp_recursive_mutex                      /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+__lock___sinit_recursive_mutex                    /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+__lock___tz_mutex                                 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+__preinit_array_end                               /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-init.o)
+__preinit_array_start                             /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-init.o)
+__register_exitproc                               /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-__atexit.o)
+                                                  /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-atexit.o)
+__register_frame_info                             /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+__retarget_lock_acquire                           /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+__retarget_lock_acquire_recursive                 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+                                                  /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-__atexit.o)
+                                                  /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-__call_atexit.o)
+__retarget_lock_close                             /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+__retarget_lock_close_recursive                   /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+__retarget_lock_init                              /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+__retarget_lock_init_recursive                    /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+__retarget_lock_release                           /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+__retarget_lock_release_recursive                 /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+                                                  /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-__atexit.o)
+                                                  /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-__call_atexit.o)
+__retarget_lock_try_acquire                       /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+__retarget_lock_try_acquire_recursive             /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-lock.o)
+__stack                                           /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+_bss_end                                          build//Users/sam/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+_bss_start                                        build//Users/sam/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+_exit                                             /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-exit.o)
+_fini                                             /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crti.o
+                                                  /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-fini.o)
+_free_r                                           build//Users/sam/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+_global_impure_ptr                                /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-impure.o)
+                                                  /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-__atexit.o)
+                                                  /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-__call_atexit.o)
+                                                  /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-exit.o)
+_impure_ptr                                       /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-impure.o)
+_init                                             /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crti.o
+                                                  /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-init.o)
+_mainCRTStartup                                   /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+_malloc_r                                         build//Users/sam/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+_realloc_r                                        build//Users/sam/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+_start                                            /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+atexit                                            /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-atexit.o)
+                                                  /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-__call_atexit.o)
+                                                  /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+dx                                                build/src/main.o
+dy                                                build/src/main.o
+eventHandler                                      build/src/main.o
+                                                  build//Users/sam/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+eventHandlerShim                                  build//Users/sam/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+exit                                              /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-exit.o)
+                                                  /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+font                                              build/src/main.o
+fontpath                                          build/src/main.o
+hardware_init_hook                                /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+main                                              /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+memset                                            /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a(lib_a-memset.o)
+                                                  /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+software_init_hook                                /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+x                                                 build/src/main.o
+y                                                 build/src/main.o

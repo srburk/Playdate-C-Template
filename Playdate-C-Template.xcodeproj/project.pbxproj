@@ -11,6 +11,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		221A704228F7C55A001EE027 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		225E2EB228F75C3C004E8CD3 /* libSimulator.dylib */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.dylib"; includeInIndex = 0; path = libSimulator.dylib; sourceTree = BUILT_PRODUCTS_DIR; };
 		225E2EB928F75C9B004E8CD3 /* Makefile */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
 		225E2EBC28F75CE8004E8CD3 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
@@ -32,6 +33,7 @@
 		225E2EA928F75C3C004E8CD3 = {
 			isa = PBXGroup;
 			children = (
+				221A704228F7C55A001EE027 /* .gitignore */,
 				225E2EC528F7664B004E8CD3 /* README.md */,
 				225E2EBE28F75CF8004E8CD3 /* Source */,
 				225E2EBB28F75CD5004E8CD3 /* src */,
